@@ -7,7 +7,6 @@ Chapter 2 - Day 1
 
 ***cadence
 import JacobTucker from 0x03
-
 pub fun main(): String {
     return JacobTucker.is
 }
